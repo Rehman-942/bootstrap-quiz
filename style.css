@@ -1,0 +1,9 @@
+.input_field {
+    border: 0px;
+}
+
+.input {
+    border-bottom: 2px solid black;
+    width: 300px;
+    margin-top: 25px;
+}
